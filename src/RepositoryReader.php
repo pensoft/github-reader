@@ -8,7 +8,7 @@ use GrahamCampbell\GitHub\GitHubManager;
 
 final class RepositoryReader
 {
-    const DEFAULT_CONNECTION = 'app';
+    const DEFAULT_CONNECTION = 'main';
 
     protected $manager;
 
