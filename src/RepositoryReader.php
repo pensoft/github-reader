@@ -161,4 +161,9 @@ final class RepositoryReader
     {
         return $this->getManager()->connection($this->getConnection())->api('repo')->contents()->show($this->getOrganization(), $this->getRepositoryName(), $path);
     }
+
+    public function extractArchive($format='zipball', $branch = null)
+    {
+        return $this->getManager()->connection($this->getConnection())->api('repo')->contents()->archive($this->getOrganization(), $this->getRepositoryName(), $format, $branch);
+    }
 }
