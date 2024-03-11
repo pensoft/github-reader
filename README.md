@@ -1,5 +1,5 @@
 ___
-This is a fork of [rummykhan/github-reader](https://github.com/rummykhan/github-reader) package, but giving ability to work with Laravel 7 and 
+This is a fork of [rummykhan/github-reader](https://github.com/rummykhan/github-reader) package, but giving ability to work with Laravel 9 and 
 using the lates version of the dependencies 
 ___
 
