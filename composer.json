@@ -1,5 +1,5 @@
 {
-  "name": "nick-scalewest/github-reader",
+  "name": "pensoft/github-reader",
   "description": "Github Repository Reader.",
   "keywords": [
     "Github",
@@ -8,8 +8,8 @@
   ],
   "authors": [
     {
-      "name": "Scalwest ltd",
-      "email": "nikolay.baldziev@scalewest.com"
+      "name": "Pensoft",
+      "email": "s.demirov@pensoft.net"
     }
   ],
   "license": "MIT",
